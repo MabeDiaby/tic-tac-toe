@@ -32,6 +32,12 @@ in sequence.
 You're going to build your Tic-Tac-Toe game in two phases! We'll define the
 goals for each phase, but you should break these down into even smaller steps.
 
+
+We want to see A LOT of pseudocoding in here. How many squares do you need to create? How are you going to differentiate between player 1 and player 2? Take the time as a group, and individually, to plan out details for each step along the way. 
+
+There are a plethora of different ways of doing each step of this process. There are no Right or Wrong answers, so long as it works. Challenge yourself and see what we can do!
+
+
 ### Phase 1: Player-scored Version
 
 - Build out a 3x3 grid with clickable squares.
