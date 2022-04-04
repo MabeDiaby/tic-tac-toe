@@ -1,0 +1,25 @@
+div {
+    display: grid;
+    grid-template-rows: 100px 100px 100px;
+    grid-template-columns: 100px 100px 100px;
+}
+
+.box {
+    background-color: black;
+    /* display: inline-block;  */
+    margin: 3px; 
+}
+
+.x {
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.o {
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
